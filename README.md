@@ -1,6 +1,9 @@
 ## Hi there, im Nikolas! 👋 ##
 
-iM A
+I'm a Computer Science student at John Jay College of Criminal Justice and I have a strong interest in cybersecurity (specifically IAM), data security and cloud infrastructure. 
+
+I am working on IAM style projects and labs focused on platforms like microsot azure or aws, virtual machines, identity monitoring, user creation automation projects, authentication configuration, and role-based access control using Microsoft Entra ID.
+
 
 <!--
 **Nikolas351/nikolas351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
