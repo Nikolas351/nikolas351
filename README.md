@@ -1,4 +1,4 @@
-## Hi there, im Nikolas! 👋 ##
+## Hi, im Nikolas! 👋 ##
 
 I'm a Computer Science student at John Jay College of Criminal Justice with a strong interest in cybersecurity — specifically Identity and Access Management (IAM), data security, and cloud infrastructure.
 
