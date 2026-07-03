@@ -8,3 +8,4 @@ I am working toward a career in cloud securitym IAM engineering, or other IAM ro
 
 ## Certifications ##
 <img src="okta-certified-professional.png" width="120">
+<img src="okta-certified-administrator.png" width="120">
